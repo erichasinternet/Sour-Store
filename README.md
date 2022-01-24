@@ -1,6 +1,6 @@
 # GatsbyJS Headless Ecommerce Store
 
-This is a store that I created to make it easier for my friends to sell band merchandise.
+This is a store that I created for my friends to sell band merchandise.
 
 ## Description
 
