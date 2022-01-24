@@ -9,6 +9,7 @@ module.exports = {
     siteDescription:
       "Sour! and Team Nonexistent Merchandise",
     siteImage: "/default-og-image.jpg",
+    twitter: "@erichasinternet",
   },
   flags: {
     FAST_DEV: true,
